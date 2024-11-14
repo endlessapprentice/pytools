@@ -1,0 +1,5 @@
+Para instalar requerimientos en Python: pip3 install -r requirements.txt.
+python3 ghost_eye.py  (Revisa el clickjacking).
+python3 rpc-scan.py IP –rpc
+python3 dirsearch.py -u url
+python3 clickJackPoc.py -f lista_dominios.txt
